@@ -1,2 +1,3 @@
-# Customer_PurchaseBehavior_Dashboard
-A dashboard showing customer purchase behavior.
+This dashboard provides a comprehensive overview of customer purchase behavior, offering insights across several key demographic and behavioral factors. The data is segmented by age bracket, gender, income, education, and region (North, East, South, and West), enabling an analysis of how these factors influence purchasing patterns.
+Key metrics include Total purchase amount,Average satisfaction score and promotion acceptance rate. The dashboard also tracks satisfaction scores, loyalty offering insights into customer satisfaction across different product categories and demographics. This helps identify high-value customer segments, assess the impact of promotions, and understand regional variations in purchasing behavior.
+Overall, the dashboard serves as a valuable tool for visualizing customer demographics, purchasing trends, and loyalty, allowing for data-driven strategies to improve customer engagement and satisfaction.
